@@ -1,1 +1,1 @@
-# Atashin-ai
+flutter run# Atashin-ai
